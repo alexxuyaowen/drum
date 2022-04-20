@@ -1,1 +1,1 @@
-# [Demo](https://alexxuyaowen.github.io/drum/).
+# [Demo](https://alexxuyaowen.github.io/drum/)

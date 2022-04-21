@@ -4,4 +4,4 @@
 
 [Demo](https://alexxuyaowen.github.io/drum/)
 
-Use your mouse or keyboard to play the drum!
+Enjoy playing the drum by clicking on them or using the keyboard!

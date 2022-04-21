@@ -4,4 +4,4 @@
 
 [Demo](https://alexxuyaowen.github.io/drum/)
 
-### Start playing the drum by clicking on them or using the keyboard
+##### Start playing the drum by clicking on them or using the keyboard
